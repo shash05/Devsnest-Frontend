@@ -1,0 +1,18 @@
+body {
+    font-family: system-ui;
+    background: cyan;
+    color: black;
+    /*text-align: center;*/
+  }
+   h2{
+    font-family: times new roman;
+    background: white;
+    color: blue;
+    text-align: center;
+  }
+  p{
+    font-family: system-ui;
+    background: cyan;
+    color: white;
+    /*text-align: center;*/
+  }
